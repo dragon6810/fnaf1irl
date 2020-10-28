@@ -1,0 +1,13 @@
+{
+    "name": "PYTHON ENV",
+    "dockerFile": "Dockerfile",
+    "appPort": [8080],
+    "settings": {
+        "workbench.colorTheme": "Cobalt2",
+        "terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+		"ms-python.python",
+		"streetsidesoftware.code-spell-checker"
+	]
+}
